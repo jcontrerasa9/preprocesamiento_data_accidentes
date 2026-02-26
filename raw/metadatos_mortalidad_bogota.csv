@@ -1,0 +1,17 @@
+ Nombre Indicador;Tasa de mortalidad por accidentes de tránsito
+Definición del evento;Es un suceso involuntario generado por al menos un vehículo en movimiento que ocasiona la muerte de uno o varios involucrados y/o puede ocasionar daños en bienes.
+Definición del indicador;Relación entre el numero de accidentes de tránsito y la población por localidad.
+Utilidad;Monitorear el comportamiento de la mortalidad por accidentes de transito, identificando grupos vulnerables que requieren prevención del evento en Bogotá D.C. 
+Ordenador;Determinantes sociales
+Nivel ;Local y Distrital
+Unidad de medida;Tasa por 100.000 habitantes
+Periodicidad;Semestral.
+Definición Numerador;Número de muertes por accidente de tránsito 
+Fuente ;INMLCF-Instituto Nacional de Medicina Legal y Ciencias Forenses 
+Definición denominador;Población total por localidad
+Fuente ;"Proyecciones de Población por Localidad Convenio interadministrativo 095 de 2020 DANEFONDANE Y SDP con base en CNPV DANE 2018. 	Actualización Post Covid-19. Proyecciones de población a nivel departamental periodo 2020- 2050. DANE 2023"
+Fórmula;Número de defunciones por accidentes de tránsito registrados a traves del Instituto Nacional de Medicina Legal y Ciencias Forenses (INMLCF)  /  Población *  100.000 habitantes. 
+Meta;Reducir a la mitad las muertes y lesiones causadas por accidentes de tránsito para el año 2030. (ODS 3.6).
+Localidades;Localidad del hecho
+Año;Año histórico de consulta
+Serie ;2015- 2025 pp
